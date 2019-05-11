@@ -12,55 +12,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Flyweight/Shape.java">
+        <entry file="file://$PROJECT_DIR$/src/Proxy/Image.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Flyweight/Circle.java">
+        <entry file="file://$PROJECT_DIR$/src/Proxy/RealImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="method#draw#0;class#Circle#0" expanded="true" />
+                <element signature="method#RealImage#0;class#RealImage#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Flyweight/ShapeFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/Proxy/ProxyImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="255">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Flyweight/FlyWeightPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/Proxy/ProxyPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="8" selection-end-column="17" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="method#main#0;class#FlyWeightPatternDemo#0" expanded="true" />
+                <element signature="method#main#0;class#ProxyPatternDemo#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,11 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Builder/Coke.java" />
-        <option value="$PROJECT_DIR$/src/Builder/Pepsi.java" />
-        <option value="$PROJECT_DIR$/src/Builder/Meal.java" />
-        <option value="$PROJECT_DIR$/src/Builder/MealBuilder.java" />
-        <option value="$PROJECT_DIR$/src/Builder/BuiderPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/Prototype/Circle.java" />
         <option value="$PROJECT_DIR$/src/Prototype/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/Prototype/Square.java" />
@@ -133,6 +123,11 @@
         <option value="$PROJECT_DIR$/src/Flyweight/Circle.java" />
         <option value="$PROJECT_DIR$/src/Flyweight/ShapeFactory.java" />
         <option value="$PROJECT_DIR$/src/Flyweight/FlyWeightPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/Proxy.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/Image.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/RealImage.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/ProxyImage.java" />
+        <option value="$PROJECT_DIR$/src/Proxy/ProxyPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -176,7 +171,7 @@
               <item name="Java-Pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Flyweight" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,7 +183,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557503589144" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557544951674" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -217,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlyWeightPatternDemo">
+  <component name="RunManager" selected="Application.ProxyPatternDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -231,20 +226,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Composite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CriteriaPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Filter.CriteriaPatternDemo" />
-      <module name="Java-Pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Filter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,6 +275,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProxyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Proxy.ProxyPatternDemo" />
+      <module name="Java-Pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -324,19 +319,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CriteriaPatternDemo" />
       <item itemvalue="Application.CompositePatternDemo" />
       <item itemvalue="Application.DecoratorPatternDemo" />
       <item itemvalue="Application.FacadePatternDemo" />
       <item itemvalue="Application.FlyWeightPatternDemo" />
+      <item itemvalue="Application.ProxyPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProxyPatternDemo" />
         <item itemvalue="Application.FlyWeightPatternDemo" />
         <item itemvalue="Application.FacadePatternDemo" />
         <item itemvalue="Application.DecoratorPatternDemo" />
         <item itemvalue="Application.CompositePatternDemo" />
-        <item itemvalue="Application.CriteriaPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -363,17 +358,18 @@
       <workItem from="1556941375815" duration="1362000" />
       <workItem from="1557463367813" duration="483000" />
       <workItem from="1557502545451" duration="1041000" />
+      <workItem from="1557544301409" duration="516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12030000" />
+    <option name="totallyTimeSpent" value="12546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17668097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -410,41 +406,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Builder/Coke.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Builder/Pepsi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Builder/Meal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Builder/MealBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Builder/BuiderPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Prototype/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -725,13 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flyweight/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Facade/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -763,25 +717,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
-          <folding>
-            <element signature="e#32010#32011#0" expanded="true" />
-            <element signature="e#32095#32096#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Flyweight/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Flyweight/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
           <folding>
             <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
             <element signature="method#draw#0;class#Circle#0" expanded="true" />
           </folding>
         </state>
@@ -796,16 +747,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Flyweight/FlyWeightPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="8" selection-end-column="17" />
+        <state relative-caret-position="391">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
             <element signature="method#main#0;class#FlyWeightPatternDemo#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/RealImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="method#RealImage#0;class#RealImage#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/ProxyImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Proxy/ProxyPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="method#main#0;class#ProxyPatternDemo#0" expanded="true" />
           </folding>
         </state>
       </provider>
