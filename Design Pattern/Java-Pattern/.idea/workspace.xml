@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a201c443-f44e-4259-be59-37046831a354" name="Default Changelist" comment="" />
+    <list default="true" id="a201c443-f44e-4259-be59-37046831a354" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,71 +13,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Command/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Command/BuyStock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Command/SellStock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/AbstractLogger.java">
+        <entry file="file://$PROJECT_DIR$/src/Command/CommandPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
+                <element signature="method#main#0;class#CommandPatternDemo#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/FileLogger.java">
+        <entry file="file://$PROJECT_DIR$/src/Command/Broker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#placeOrders#0;class#Broker#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/ErrorLogger.java">
+        <entry file="file://$PROJECT_DIR$/src/Command/Stock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="68">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/ChainPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-              <folding>
-                <element signature="method#getChainOfLoggers#0;class#ChainPatternDemo#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/ConsoleLogger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-              <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
                 <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,12 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Prototype/ShapeCache.java" />
-        <option value="$PROJECT_DIR$/src/Adapter/Media.java" />
-        <option value="$PROJECT_DIR$/src/Adapter/MediaPlayer.java" />
-        <option value="$PROJECT_DIR$/src/Adapter/AdvancedMediaPlayer.java" />
-        <option value="$PROJECT_DIR$/src/Adapter/VlcPlayer.java" />
-        <option value="$PROJECT_DIR$/src/Adapter/Mp4Player.java" />
         <option value="$PROJECT_DIR$/src/Adapter/MediaAdapter.java" />
         <option value="$PROJECT_DIR$/src/Adapter/AudioPlayer.java" />
         <option value="$PROJECT_DIR$/src/Adapter/AdapterPatternDemo.java" />
@@ -148,6 +155,12 @@
         <option value="$PROJECT_DIR$/src/ChainOfResponsibility/ErrorLogger.java" />
         <option value="$PROJECT_DIR$/src/ChainOfResponsibility/AbstractLogger.java" />
         <option value="$PROJECT_DIR$/src/ChainOfResponsibility/ChainPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/Command/Order.java" />
+        <option value="$PROJECT_DIR$/src/Command/Stock.java" />
+        <option value="$PROJECT_DIR$/src/Command/CommandPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/Command/Broker.java" />
+        <option value="$PROJECT_DIR$/src/Command/BuyStock.java" />
+        <option value="$PROJECT_DIR$/src/Command/SellStock.java" />
       </list>
     </option>
   </component>
@@ -157,7 +170,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="726" />
     <option name="width" value="714" />
     <option name="height" value="900" />
@@ -171,6 +184,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,19 +206,18 @@
               <item name="Java-Pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ChainOfResponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557628419112" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557713820266" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -233,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChainPatternDemo">
+  <component name="RunManager" selected="Application.CommandPatternDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -254,13 +267,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Decorator.DecoratorPatternDemo" />
+    <configuration name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Command.CommandPatternDemo" />
       <module name="Java-Pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Decorator.*" />
+          <option name="PATTERN" value="Command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,19 +353,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DecoratorPatternDemo" />
       <item itemvalue="Application.FacadePatternDemo" />
       <item itemvalue="Application.FlyWeightPatternDemo" />
       <item itemvalue="Application.ProxyPatternDemo" />
       <item itemvalue="Application.ChainPatternDemo" />
+      <item itemvalue="Application.CommandPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandPatternDemo" />
         <item itemvalue="Application.ChainPatternDemo" />
         <item itemvalue="Application.ProxyPatternDemo" />
         <item itemvalue="Application.FlyWeightPatternDemo" />
         <item itemvalue="Application.FacadePatternDemo" />
-        <item itemvalue="Application.DecoratorPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -380,18 +393,19 @@
       <workItem from="1557463367813" duration="483000" />
       <workItem from="1557502545451" duration="1041000" />
       <workItem from="1557544301409" duration="516000" />
-      <workItem from="1557627086590" duration="1327000" />
+      <workItem from="1557627086590" duration="1451000" />
+      <workItem from="1557712927358" duration="844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13873000" />
+    <option name="totallyTimeSpent" value="14841000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11015737" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11158799" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -428,48 +442,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Prototype/PrototypePatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Adapter/MediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Adapter/AdvancedMediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Adapter/VlcPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Adapter/Mp4Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Adapter/MediaAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Adapter/AudioPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -758,6 +730,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/AbstractLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/FileLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/ErrorLogger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -767,32 +757,6 @@
             <element signature="e#151#152#0" expanded="true" />
             <element signature="e#208#209#0" expanded="true" />
             <element signature="e#279#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/FileLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/ConsoleLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -807,13 +771,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/AbstractLogger.java">
+    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/ConsoleLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="136">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
           <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Command/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Command/Broker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#placeOrders#0;class#Broker#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Command/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Command/BuyStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Command/SellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Command/CommandPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="method#main#0;class#CommandPatternDemo#0" expanded="true" />
           </folding>
         </state>
       </provider>
