@@ -15,66 +15,38 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/State.java">
+        <entry file="file://$PROJECT_DIR$/src/NullObject/NullCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="187">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+              <folding>
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/Context.java">
+        <entry file="file://$PROJECT_DIR$/src/NullObject/CustomerFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/State/StatePatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/NullObject/NullPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="34">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
               <folding>
-                <element signature="method#main#0;class#StatePatternDemo#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/StartState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="method#doAction#0;class#StartState#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/StopState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="method#doAction#0;class#StopState#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
+                <element signature="method#main#0;class#NullPatternDemo#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,11 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Facade/FacadePatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/Flyweight/Shape.java" />
-        <option value="$PROJECT_DIR$/src/Flyweight/Circle.java" />
-        <option value="$PROJECT_DIR$/src/Flyweight/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/Flyweight/FlyWeightPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/Proxy.java" />
         <option value="$PROJECT_DIR$/src/Proxy/Image.java" />
         <option value="$PROJECT_DIR$/src/Proxy/RealImage.java" />
@@ -147,6 +114,11 @@
         <option value="$PROJECT_DIR$/src/State/StartState.java" />
         <option value="$PROJECT_DIR$/src/State/StopState.java" />
         <option value="$PROJECT_DIR$/src/State/StatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/NullObject/AbstractCustomer.java" />
+        <option value="$PROJECT_DIR$/src/NullObject/RealCustomer.java" />
+        <option value="$PROJECT_DIR$/src/NullObject/CustomerFactory.java" />
+        <option value="$PROJECT_DIR$/src/NullObject/NullCustomer.java" />
+        <option value="$PROJECT_DIR$/src/NullObject/NullPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -164,7 +136,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,12 +152,13 @@
               <item name="Java-Pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="State" type="462c0819:PsiDirectoryNode" />
+              <item name="NullObject" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,23 +194,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StatePatternDemo">
+  <component name="RunManager" selected="Application.NullPatternDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IteratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Iterator.IteratorPatternDemo" />
-      <module name="Java-Pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -264,6 +222,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Momento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NullPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullObject.NullPatternDemo" />
+      <module name="Java-Pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NullObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,19 +303,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IteratorPatternDemo" />
       <item itemvalue="Application.MediatorPAtternDemo" />
       <item itemvalue="Application.MomentoPatternDemo" />
       <item itemvalue="Application.ObserverPatternDemo" />
       <item itemvalue="Application.StatePatternDemo" />
+      <item itemvalue="Application.NullPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NullPatternDemo" />
         <item itemvalue="Application.StatePatternDemo" />
         <item itemvalue="Application.ObserverPatternDemo" />
         <item itemvalue="Application.MomentoPatternDemo" />
         <item itemvalue="Application.MediatorPAtternDemo" />
-        <item itemvalue="Application.IteratorPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -379,18 +351,19 @@
       <workItem from="1558018398363" duration="65000" />
       <workItem from="1558150164064" duration="644000" />
       <workItem from="1558234522235" duration="669000" />
-      <workItem from="1558267755198" duration="288000" />
+      <workItem from="1558267755198" duration="315000" />
+      <workItem from="1558356968117" duration="591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18483000" />
+    <option name="totallyTimeSpent" value="19101000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="522" y="0" width="918" height="900" extended-state="6" />
+    <frame x="596" y="0" width="844" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2260274" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18952619" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +372,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3283767" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31226766" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31226766" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,41 +399,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flyweight/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flyweight/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flyweight/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flyweight/FlyWeightPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Proxy.java" />
     <entry file="file://$PROJECT_DIR$/src/Proxy/Image.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -871,39 +809,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/StopState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="method#doAction#0;class#StopState#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/State/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/State/StartState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="102">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="method#doAction#0;class#StartState#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
             <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/StopState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="method#doAction#0;class#StopState#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -911,9 +843,60 @@
     <entry file="file://$PROJECT_DIR$/src/State/StatePatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="method#main#0;class#StatePatternDemo#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NullObject/AbstractCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NullObject/RealCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NullObject/NullCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NullObject/CustomerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NullObject/NullPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
+          <folding>
+            <element signature="method#main#0;class#NullPatternDemo#0" expanded="true" />
           </folding>
         </state>
       </provider>
